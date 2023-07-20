@@ -62,10 +62,33 @@ body
 {
 	text-align: center;
 	padding-top: 11%;
-	margin-left: 75px;
 	text-transform: uppercase;
 	font-weight: bold;
 	font-size: 27px;
+}
+.title1
+{
+	text-align: center;
+	padding-top: 8%;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 27px;
+}
+.title3
+{
+	text-align: center;
+	padding-top: 8%;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 27px;
+}
+.title4
+{
+	text-align: center;
+	padding-top: 8%;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 20px;
 }
 .form-row textarea {
     font-size: 14px;
@@ -91,7 +114,6 @@ p
 	align-items: center;
 	justify-content: center;
 	padding-left:400px;
-	padding-top: 200px;
 }
 .form-container form
 {
@@ -162,9 +184,19 @@ p
 {
 	margin-left: 150px;
 }
+.extra1 h3
+{
+	margin-left: 150px;
+	font-size: 25px;
+}
 .extra ul
 {
 	margin-left: 150px;
+}
+.extra1 ul
+{
+	margin-left: 150px;
+	font-size: 18px;
 }
 .pic img
 {
@@ -202,4 +234,12 @@ p
 	font-size: 30px;
 	text-transform: uppercase;
 	font-weight: bold;
+}
+.img-contact img
+{
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	padding: 5px;
+	margin-top: 25px;
 }
