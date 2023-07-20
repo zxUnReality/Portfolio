@@ -1,0 +1,205 @@
+*
+{
+	font-family: Roboto;
+
+}
+
+nav ul
+{
+	float: right;
+	margin-right: 20px;
+	margin-top: 25px;
+
+}
+nav ul li
+{
+
+	display: inline-block;
+	margin: 20px;
+	padding-top: 20px;
+	padding-right: 20px;
+
+	
+}
+nav ul li a
+{
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	text-transform: uppercase;
+	border-radius: 3px;
+}
+nav ul li a:hover
+{
+	background: skyblue;
+}
+nav ul li a:active
+{
+	background: red;
+}
+.logo a img
+{
+	width: 100px;
+    height: 100px;
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	border-radius: 5px;
+	margin-top: 40px;
+	margin-left: 20px;
+	outline-style: solid;
+	outline-offset: 1px;
+	position: absolute;
+}
+body
+{
+	color: white;
+	background-color: black;
+
+}
+.title
+{
+	text-align: center;
+	padding-top: 11%;
+	margin-left: 75px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 27px;
+}
+.form-row textarea {
+    font-size: 14px;
+    border: 1px;
+    border-radius: 3px;
+    min-height: 100px;
+    margin-bottom: 10px;
+    padding: 5px;
+	margin-right: px;
+	width: 100%;
+	font-weight: normal;
+}
+p
+{
+	margin-left: 75px;
+	font-size: 15px;
+	margin-top: 5px;
+	padding-top: 5px;
+}
+.form-container
+{
+	float: center;
+	align-items: center;
+	justify-content: center;
+	padding-left:400px;
+	padding-top: 200px;
+}
+.form-container form
+{
+	display:inline-block;
+	color: #FFFAF0;
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0 5px 10px black;
+	background: #055858;
+	text-align: center;
+	
+}
+.form-container form h3
+{
+	text-transform: uppercase;
+	margin-bottom: 10px;
+}
+.form-container form p
+{
+	text-align: center;
+	font-size: 10px;
+	margin-top: 10px;
+	padding-right: 50px;
+}
+.form-container form input
+{
+	width: 100%;
+	padding: 3px 3px;
+	margin: 8px 0;
+	font-weight: bold;
+}
+.form-container form .contact-btn
+{
+	background: #663399;
+	color: white;
+	cursor: pointer;
+	width: 102%;
+}
+.form-container form .contact-btn:hover
+{
+	background-color: skyblue;
+}
+.form-container form p
+{
+	margin-top: 5px;
+	font-size: 11px;
+}
+.hello
+{
+	margin-left: 50px;
+}
+.bg img
+{
+	padding-left: 275px;
+	float: right;
+	width: 500px;
+	margin-right: 50px;
+}
+.bg-index img
+{
+	padding-top: 50px;
+	padding-left: 275px;
+	float: right;
+	width: 500px;
+	margin-right: 50px;
+}
+.extra h3
+{
+	margin-left: 150px;
+}
+.extra ul
+{
+	margin-left: 150px;
+}
+.pic img
+{
+	width: 180px;
+    height: 180px;
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	border-radius: 5px;
+	margin-top: 40px;
+	margin-left: 20px;
+	position: absolute;
+}
+.top-info ul li
+{
+	list-style-type: none;
+	padding-top: 50px;
+	margin-top: 3px;
+	margin-left: 200px;
+	display: flex;
+	flex-direction: column;
+}
+.middle-info ul li
+{
+	list-style-type: none;
+	padding-top: 20px;
+	margin-top: 1px;
+	margin-left: 20px;
+	display: flex;
+	flex-direction: column;
+}
+.title-resume
+{
+	font-size: 30px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
